@@ -31,8 +31,10 @@
 
 ## Usage
 - Utilize Twitter REST API (Users/Lookup) resource
+```
     \\Pass Twitter username as an argument to userlytics.php
     php userlytics.php <user_name>
+```
 - Performs requests in batches of (100) users(followers)
 - Minimizes number of requests to API (current limit: 180 requests/interval)
 - Example: User with 1000 followers will only require 10 requests to return entire dataset
