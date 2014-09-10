@@ -1,4 +1,4 @@
 UserLytics
 ==========
 
-Twitter analytics platform
+<h2>Twitter Analytics Utility</h2>
