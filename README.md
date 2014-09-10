@@ -1,5 +1,4 @@
 # UserLytics
-==========
 # Twitter Analytics Utility
 
 ## Requirements
