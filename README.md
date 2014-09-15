@@ -14,10 +14,9 @@
       - user-name
       - description
       - profile-image
-  - Followers number
-    - Data metrics of these users
-  - Following number
-    - Data metrics of these users
+  - Data metrics of user
+    - Followers number
+    - Following number
   - GPS location
   - Account creation date
   - Verified status
